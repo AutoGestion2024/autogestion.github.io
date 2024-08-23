@@ -1,3 +1,3 @@
 # autogestion.github.io
 
-https://autogestion2024.github.io/webpage/
+https://autogestion2024.github.io/
